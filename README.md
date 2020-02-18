@@ -1,4 +1,4 @@
-# MaximalCoordinateDynamics.jl
+# MaximalCoordinates_WAFR2020_Experiments
 
 Run the experiments for the paper "Linear-Time Variational Integrators in Maximal Coordinates" located in the folder "paper_experiments".
 
